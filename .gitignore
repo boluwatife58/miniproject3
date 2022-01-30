@@ -1,0 +1,8 @@
+#ignore css
+css/
+
+#ignore js
+js/
+
+#ignore icons
+icons/
